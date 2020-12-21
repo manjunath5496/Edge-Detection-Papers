@@ -64,4 +64,38 @@ Representation for Contour and Object Detection</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Edge-Detection-Papers/blob/master/edg(31).pdf" style="text-decoration:none;">Simultaneous Edge Alignment and Learning</a></li> 
     <li><a target="_blank" href="https://github.com/manjunath5496/Edge-Detection-Papers/blob/master/edg(32).pdf" style="text-decoration:none;">Edge Boxes: Locating
 Object Proposals from Edges</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Edge-Detection-Papers/blob/master/edg(33).pdf" style="text-decoration:none;">Study and Comparison of Different Edge Detectors for Image Segmentation</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Edge-Detection-Papers/blob/master/edg(34).pdf" style="text-decoration:none;">Richer Convolutional Features for Edge Detection</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Edge-Detection-Papers/blob/master/edg(35).pdf" style="text-decoration:none;">A Study of Edge-Detection Methods</a></li> 
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Edge-Detection-Papers/blob/master/edg(36).pdf" style="text-decoration:none;">Color Image Edge Detection: A Survey</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Edge-Detection-Papers/blob/master/edg(37).pdf" style="text-decoration:none;">Edge Detection Techniques For Image Segmentation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Edge-Detection-Papers/blob/master/edg(38).pdf" style="text-decoration:none;">Comparative analysis of common edge detection techniques in context of object extraction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Edge-Detection-Papers/blob/master/edg(39).pdf" style="text-decoration:none;">Algorithm and Technique on Various Edge Detection : A Survey</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Edge-Detection-Papers/blob/master/edg(40).pdf" style="text-decoration:none;">A Computational Approach To Edge Detection</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Edge-Detection-Papers/blob/master/edg(41).pdf" style="text-decoration:none;">A Review on Edge Detection Techniques for Image Segmentation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Edge-Detection-Papers/blob/master/edg(42).pdf" style="text-decoration:none;">Edge Detection Analysis</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Edge-Detection-Papers/blob/master/edg(43).pdf" style="text-decoration:none;">Edge detection</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Edge-Detection-Papers/blob/master/edg(44).pdf" style="text-decoration:none;">Edge Detection: A Statistical approach</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Edge-Detection-Papers/blob/master/edg(45).pdf" style="text-decoration:none;">A Study on Image Edge Detection Using the Gradients</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Edge-Detection-Papers/blob/master/edg(46).pdf" style="text-decoration:none;">Medical image Edge detection using Gauss Gradient operator</a></li> 
+                             
+<li><a target="_blank" href="https://github.com/manjunath5496/Edge-Detection-Papers/blob/master/edg(47).pdf" style="text-decoration:none;">Lecture notes on edge detection</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Edge-Detection-Papers/blob/master/edg(48).pdf" style="text-decoration:none;">Theory of edge detection</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Edge-Detection-Papers/blob/master/edg(49).pdf" style="text-decoration:none;">Holistically-Nested Edge Detection</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Edge-Detection-Papers/blob/master/edg(50).pdf" style="text-decoration:none;">Multi-Scale Improves Boundary Detection in Natural Images</a></li>
+
+
+
+
+
+
 </ul>
